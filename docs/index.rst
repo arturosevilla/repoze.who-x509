@@ -69,6 +69,7 @@ Contents
 
    changes
    configuration
+   api
 
 Indices and tables
 ==================
