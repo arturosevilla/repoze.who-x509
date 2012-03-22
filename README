@@ -1,0 +1,5 @@
+repoze.what x509 Client Certificate
+
+A simple x509 repoze.what plugin with predicates that enable to check for
+certification authorities, user names, and other x509 related content.
+
