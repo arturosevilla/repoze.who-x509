@@ -2,7 +2,7 @@
 API
 ************
 
-.. py:module:: repoze.what.plugins.x509
+.. py:module:: repoze.who.plugins.x509
 
 x509
 -----------------------------------
